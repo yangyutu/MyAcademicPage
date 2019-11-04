@@ -15,5 +15,4 @@ header:
 ---
 
 
-Hello World
 

@@ -18,7 +18,7 @@ header:
 
 
 ## Essential Mathematical Modeling Methods
-{{< figure library="true" src="mathbook/mathbook.png" title="" lightbox="true" >}}
+{{< figure library="true" src="mathbook/mathbook.PNG" title="" lightbox="true" >}}
 
 {{% staticref "files/MathBook.pdf" "newtab" %}}Download the whole book{{% /staticref %}}
 
