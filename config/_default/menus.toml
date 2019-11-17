@@ -9,30 +9,48 @@
   weight = 10
 
 [[main]]
+  name = "Bio"
+  url = "bio"
+  weight = 30
+
+
+[[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 50
+
+[[main]]
+  name = "Research"
+  url = "research/"
+  weight = 70
+
 
 [[main]]
   name = "Publications"
   url = "publications"
-  weight = 60
+  weight = 90
   
-[[main]]
-  name = "Research"
-  url = "research/"
-  weight = 80
+
   
 [[main]]
   name = "Math Book"
   url = "mathbook/"
-  weight = 120
+  weight = 110
 
 [[main]]
   name = "Finance Book"
   url = "financebook/"
-  weight = 180
+  weight = 130
 
+[[main]]
+  name = "Finance Book"
+  url = "financebook/"
+  weight = 150
+
+[[main]]
+  name = "Misc"
+  url = "misc"
+  weight = 170
 
 
 # Link to a PDF of your resume/CV from the menu.

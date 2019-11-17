@@ -18,24 +18,9 @@ header:
 
 
 ## Essential Mathematical Modeling Methods
-{{< figure library="true" src="mathbook/mathbook.PNG" title="" lightbox="true" >}}
+{{< figure library="true" src="robot/AIicon.png" title="" lightbox="true" >}}
 
 {{% staticref "files/MathBook.pdf" "newtab" %}}Download the whole book{{% /staticref %}}
-
-### Overview
-
-This is an online evolving book that collects and organizes various fundamental results in applied mathematics, with emphasized applications in stochastic system modeling, optimal decision making, statistical learning, and mathematical finance. The content stems from various courses I have taken in Johns Hopkins University, and my self-study notes during my PhD research on optimal control of stochastic systems. This book is intended for readers in applied math and engineering that are already familiar with the topic and want to have an in-depth refreshment and summary such that various dots in commonly used applied math methods can be connected.
-
-
-This book is organized as two major parts: fundamentals and essential tools.
-
-The first part 'fundamentals' covers essential concepts and theorems in real analysis, linear algebra, matrix theory, functional analysis, probability theory, statistics, stochastic process and differential geometry.
-
-The second part 'essential tools' covers tools from convexity analysis, optimizations, calculus of variation, optimal control and dynamical programming, differential equations, dynamical system, statistical learning and mathematical finance.
-
-
-
-
 
 #### I Mathematical Foundations
 * Sets
