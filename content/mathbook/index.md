@@ -1,5 +1,5 @@
 ---
-title: Math Book
+title: 
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -17,70 +17,93 @@ header:
 
 
 
-## Essential Mathematical Modeling Methods
-{{< figure library="true" src="robot/AIicon.png" title="" lightbox="true" >}}
+## **Essentials of Mathematical Methods**
 
-{{% staticref "files/MathBook.pdf" "newtab" %}}Download the whole book{{% /staticref %}}
+
+{{< figure library="true" src="mathbook/mathbook.PNG" title="" lightbox="true" >}}
+
+
+#### About this book
+
+
+
+
+
+
+Also check out [github](https://github.com/yangyutu/EssentialMath) for updates and issues.
+
+
+
+#### Download the whole book
+{{% staticref "files/MathBook.pdf" "newtab" %}}Essentials of Mathematical Methods{{% /staticref %}}
+
+#### Download selected topics
+{{% staticref "files/financeBook.pdf" "newtab" %}}Linear Algebra and Matrix Analysis{{% /staticref %}} \
+{{% staticref "files/financeBook.pdf" "newtab" %}}Linear Regression Analysis{{% /staticref %}} \
+{{% staticref "files/financeBook.pdf" "newtab" %}}Probability and Statistical Estimation{{% /staticref %}} \
+{{% staticref "files/financeBook.pdf" "newtab" %}}Markov Chain and Random Walk{{% /staticref %}} \
+{{% staticref "files/financeBook.pdf" "newtab" %}}Supervised stistical learning{{% /staticref %}} \
+{{% staticref "files/financeBook.pdf" "newtab" %}}(Deep) Reinforcement Learning{{% /staticref %}} \
+
+
+
+
+
+
+
+### Table of Contents
 
 #### I Mathematical Foundations
-* Sets
-* Sequences & Series
-* Metric Space & Topological Space
-* Calculus
-* Linear Algebra & Matrix Analysis 
-* Function Sequences, Series & Approximation 
-* Functional Analysis 
-* Convex Analysis
-* Convex Optimization 
-* Linear Optimization 
-* Unconstrained Nonlinear Optimization 
-* Constrained Nonlinear Optimization 
+* Sets, Sequences and Series
+* Metric Space and Topological Space
+* Advanced Calculus
+* Linear Algebra and Matrix Analysis 
+* Function Sequences, Series and Approximation 
+* Basic Functional Analysis 
+
+#### II Mathematical Optimization Methods
+ 
+* Unconstrained Nonlinear Optimization
+* Constrained Nonlinear Optimization
+* Linear Optimization
+* Convex Analysis and Convex Optimization
+* Basic Game Theory 
 
 
-
-#### II Classic Modeling Methods
-* Differential Equations I & Dynamical Systems 
-* Optimal Estimation in Dynamical Systems 
-* Differential Equations ii & Numerical Methods 
-* Deterministic Optimal Control Theory 
-* Stochastic Optimal Control 
-* Calculus of Variations 
-* Game Theory & Multi-objective Optimization 
-
-#### III Stochastic Modeling Methods
-* Stochastic Process 
-* Wiener Process and Stochastic Calculus 
-* Jump-Diffusion Process 
-* Fokker-Planck Equation
-* Markov Chains
-* Continuous-Time Markov Chain 
-* Monte Carlo Methods & Optimization
-
-
-#### IV Classical Statistical Methods
+#### III Classical Statistical Methods
 * Theory of Probability 
-* Theory of Statistical Distribution 
+* Statistical Distributions 
 * Statistical Estimation Theory 
-* Hypothesis Testing 
-* Statistical Methods and Analysis 
-* Regression Analysis 
-* Time Series Analysis: Univariate Analysis 
-* Time Series Analysis: Multivariate Analysis 
+* Multivariate Statistical Methods
+* Linear Regression Analysis 
+* Monte Carlo Methods
 
-#### V Statistical Learning
+#### IV Dynamics Modeling Methods
+* Models and estimation in dynamical systems 
+* Numerical Differential Equations 
+* Stochastic Process
+* Stochastic Calculus
+* Fokker-Planck Equation
+* Markov Chain and Random Walk
+* Time Series Analysis
+
+#### V Statistical Learning Methods
 * Supervised Learning Principles and Methods 
-* Generative Models 
-* Tree Methods 
 * Linear Models for Regression 
 * Linear Models for Classification 
+* Generative Models 
+* K Nearest Neighbors
+* Tree Methods
 * Ensemble and Boosting Methods 
 * Unsupervised Statistical Learning 
+* Neural Network and Deep Learning
 
-###### A Common Notations and Facts 
-###### Alphabetical Index 
+#### VI Optimal Control and Reinforcement Learning Methods
+* Classical Optimal Contrl Theory
+* Reinforcement Learning
 
+#### Appendix: Supplemental Mathematical Facts 
 
-{{< relref "project/multiagentdrl" >}}
 
 
 

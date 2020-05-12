@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Open Books & Softwares"
+title = "Books & Softwares"
 subtitle = ""
 
 # Date format

@@ -1,5 +1,5 @@
 ---
-title: Finance Book
+title: 
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -17,55 +17,29 @@ header:
 
 
 
-## Foundation of Mathematical Finance
-{{< figure library="true" src="robot/AIicon.png" title="" lightbox="true" >}}
+## **Foundations of Mathematical Finance**
+{{< figure library="true" src="financebook/financebook.png" title="" lightbox="true" >}}
 
-{{% staticref "files/financeBook.pdf" "newtab" %}}Download the whole book{{% /staticref %}}
 
-#### I Mathematical Foundations
-* Theory of Probability 
-* Theory of Statistical Distribution 
-* Statistical Estimation Theory 
-* Hypothesis Testing 
-* Stochastic Process 
-* Wiener Process and Stochastic Calculus 
-* Jump-Diffusion Process 
-* Fokker-Planck Equation 
+#### About this book
 
 
 
-#### II Portfolio Theory and Asset Pricing
-* Portfolio Optimization & Asset Pricing 
-* Capital Asset Pricing Model
-* Factor Models and Arbitrage Pricing Theory 
-* Market Statistical Modeling and Trading Strategies 
-* Market Microstructure 
-* Algorithmic Trading Strategies 
 
+{{% staticref "files/financeBook_APR.pdf" "newtab" %}}Download{{% /staticref %}}
 
-#### III No Arbitrage Pricing
+#### Table of Contents
 * No-Arbitrage Pricing Principle 
-* Market Instrument, Information, And Replication Pricing 
-* Model Construction Methods and Principles 
-* Equity Derivatives 
+* Market Instrument, Replication and Models
 * Interest Rate Models & Derivatives 
-* Interest Rate Modeling in Multi-Curve Environment 
 * Fixed Income Analytics & Strategies 
+* Equity Derivatives 
 * Foreign Exchange Modeling
 * Credit Risk Modeling 
 * Commodity Modeling 
+* Financial Risk And VaR 
 
-
-
-#### IV Mathematical Risk Management
-* Financial Risk Management 
-* Xva and Counterparty Risk Modeling 
-
-###### A Common Notations and Facts 
-###### Alphabetical Index 
-
-
-{{< relref "project/multiagentdrl" >}}
+* Appendix: Mathematical Facts 
 
 
 
