@@ -8,16 +8,16 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Biosketch"
-  url = "biosketch"
-  weight = 30
+#[[main]]
+#  name = "Biosketch"
+#  url = "biosketch"
+#  weight = 30
 
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 50
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 50
 
 [[main]]
   name = "Research"
@@ -34,7 +34,7 @@
   
 [[main]]
   name = "Math Book"
-  url = "mathbook/"
+  url = "math/"
   weight = 110
 
 [[main]]
@@ -42,15 +42,11 @@
   url = "financebook/"
   weight = 130
 
-[[main]]
-  name = "Finance Book"
-  url = "financebook/"
-  weight = 150
 
-[[main]]
-  name = "Misc"
-  url = "misc"
-  weight = 170
+#[[main]]
+#  name = "Misc"
+#  url = "misc"
+#  weight = 170
 
 
 # Link to a PDF of your resume/CV from the menu.

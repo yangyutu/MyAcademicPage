@@ -18,24 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Stochastic Process and Control
-- Applied Mathematics
-
-education:
-  courses:
-  - course: PhD in Chemical Physics
-    institution: Johns Hopkins University
-    year: 2017
-  - course: MS in Computer Science
-    institution: Johns Hopkins University
-    year: 2016
-  - course: Engineering
-    institution: Zhejiang University, China
-    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +27,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: "mailto:yangyutu123@gmail.com"
+#- icon: twitter
+#  icon_pack: fab
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=OhoBnX8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/yangyutu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,4 +52,22 @@ user_groups:
 - Visitors
 ---
 
-Yuguang Yang is an applied artificial intelligence Scientist.
+I am an applied research scientist, with interest spanning mathematical modeling, artificial intelligence, high-performance computing, and related industrial applications. 
+
+I have around 20 publications: *Science Advances*, *Nature Scientific Reports* (x2), *Advanced Theory and Simulations*, *Advanced Intelligent Systems*, *ACS Nano* (x2), *Journal of Chemical Physics* (x3). \
+
+I have authored two books: *Essentials of Mathematical Methods* (2020), and *Foundations of Mathematical Finance* (2019).
+
+
+My research areas: \
+- Artificial intelligence for autonomous stochastic micro robotics \
+- High-performance simulation for complex stochastic physical systems \
+- Optimal control algorithms for complex stochastic systems \
+- Manifold learning based modeling and estimation \
+
+
+Academic background: \
+- Visiting AI Researcher, Tsinghua University, 2018 - \
+- PhD in Computational Chemical Physics, Johns Hopkins University 2011 - 2017 \
+- MS in Computer Science, Johns Hopkins University, 2016 - 2018 \
+- BS in Engineering, Zhejiang University, China, 2007 - 2011
